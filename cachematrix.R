@@ -1,4 +1,4 @@
-#you can call the two functions as described below, were mat is the matrix who's inverse you
+#you can call the two functions as described below, where mat is the matrix who's inverse you
 #want to calculate and cache
 
 ##cacheSolve(makeCacheMatrix(mat))
